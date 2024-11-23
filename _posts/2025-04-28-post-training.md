@@ -67,6 +67,14 @@ _styles: >
 
 Note: please use the table of contents as defined in the front matter rather than the traditional markdown styling.
 
+##### Introduction
+
+Large language models (LLMs) have achieved remarkable performance across a variety of tasks, such as language comprehension, code generation, and solving mathematical problems~\cite{brown2020language, chowdhery2022palm, kaplan2020scaling, scao2022bloom, touvron2023llama, zeng2022glm, team2023gemini, openai2023gpt}. Substantial increase in model parameters~\cite{zhang2022opt}, computational resources, and the size of training datasets led to notable results signifying intelligence. For example, GPT-4-Turbo with multi-agent prompting scored 76.73\%~\cite{lei2024macm} on MATH~\cite{hendrycks2021measuring}, and DeepSeek-Prover~\cite{xin2024deepseek} scored 46.3\% with 64 attempts on miniF2F~\cite{zheng2021minif2f}.
+
+recover from missteps
+
+
+
 ##### Post-training is lifelong
 
 pretraining is similar to genetic inhere and learning in school
